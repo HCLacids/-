@@ -1,0 +1,11 @@
+body{
+	background-color: ghostwhite;
+}
+.head-img1{
+	display: inline-block;
+}
+#search{
+	border-color: red;
+	border-collapse: collapse;
+}
+img{}
